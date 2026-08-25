@@ -161,7 +161,7 @@ data_path = "/path/to/Eikonal_data.pkl"
 For example:
 
 ```python
-data_path = ("./LENO/Eikonal_data_random_F=2X2+1_Nx=100_N=10000.pkl")
+data_path = ("./Eikonal_data_random_F=2X2+1_Nx=100_N=10000.pkl")
 ```
 
 ### Dataset shapes
