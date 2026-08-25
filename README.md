@@ -37,7 +37,7 @@ eikonal_deeponet/
 | `config.py`        | Training, model, data, and experiment configuration               |
 | `dataset.py`       | Dataset loading, preprocessing, grid construction, and DataLoader |
 | `models.py`        | Branch network, trunk network, and DeepONet architecture          |
-| `physics.py`       | Eikonal equation and physics-related functions                    |
+| `physics.py`       | Eikonal equation residual and slowness function.                  |
 | `trainer.py`       | Training, evaluation, logging, and checkpoint management          |
 | `requirements.txt` | Python dependencies                                               |
 
