@@ -7,10 +7,7 @@ class Config:
     # -------------------------
     # Data
     # -------------------------
-    data_path: str = (
-        "/home/yesom/Codes/LENO/"
-        "Eikonal_data_random_F=2X2+1_Nx=100_N=10000.pkl"
-    )
+    data_path: str = ("LENO/Eikonal_data_random_F=2X2+1_Nx=100_N=10000.pkl")
 
     n_train: int = 4000
     n_test: int = 1000
